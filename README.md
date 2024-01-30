@@ -11,14 +11,17 @@ Finance Implementation Project Manager @ Hellenic Air Force
 
 -Expertly navigated project timelines and utilized preliminary
 data analytics to enhance project efficiency and outcomes.
+
 -Spearheaded robust budget management initiatives for large-
 scale financial implementation projects, ensuring optimal
 allocation and tracking of financial resources.
+
 -Championed clear and effective stakeholder communication,
 ensuring all parties were consistently informed with project goals
 and progress.
 
 Teaching Assisant - Databases @ University of Patras
+
 -Purpose and use of Database systems, Data Models, Data
 Schemas
 
