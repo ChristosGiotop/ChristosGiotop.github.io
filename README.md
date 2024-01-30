@@ -19,7 +19,7 @@ ensuring all parties were consistently informed with project goals
 and progress.
 
 Teaching Assisant - Databases @ University of Patras
-- Purpose and use of Database systems, Data Models, Data
+-Purpose and use of Database systems, Data Models, Data
 Schemas
 
 ### Projects
